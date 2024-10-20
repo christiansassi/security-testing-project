@@ -36,3 +36,12 @@ A total of 19 vulnerabilities were identified, of which 11 were confirmed as tru
 The BeFloral web application, while functional, was found to have several critical security vulnerabilities. These vulnerabilities, including SQL Injection and XSS, pose significant risks and would need remediation before the application could be used in a real-world environment.
 
 This project highlights the importance of combining static, dynamic, and manual testing to thoroughly assess the security of a web application.
+
+## Contacts
+
+Christian Sassi - [christian.sassi@studenti.unitn.it](mailto:christian.sassi@studenti.unitn.it)
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/extras/dark.png">
+    <img alt="https://www.unitn.it/" src="assets/extras/light.png" width="300px">
+</picture>
